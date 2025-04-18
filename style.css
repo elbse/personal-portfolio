@@ -164,10 +164,11 @@ main h1{
     padding: 20px;
     font-size: large;
     border: 2px solid grey;
+    width: 300px;
 }
 
 .tech-item img{
-    width: 25px;
+    width: 100px;
 }
 
 @media (max-width: 858px) {
