@@ -22,11 +22,7 @@ I'm Elbse — a student, Web3 enthusiast, and Core DAO Student Ambassador from t
 
 ---
 
-## 🌐 Live Demo
 
-> Coming soon! 🚧
-
----
 
 
 
